@@ -16,7 +16,7 @@ The RecyclerView is a new ViewGroup that is prepared to render any adapter-based
 
 The steps are explained in more detail below.
 
-```
+```java
   dependencies {
       compile 'com.android.support:support-v4:24.2.1'
       compile 'com.android.support:recyclerview-v7:24.2.1'
